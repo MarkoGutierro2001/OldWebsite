@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Color Sleuth App </title> 
+        <title> Turtle Design </title>
+        <style> 
+            h3{
+                font-weight: normal;
+            }
+            table{
+                font-size: 20px;
+            }
+        </style>
+    </head>
+    <body background = "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/04wl7Vx/4k-golden-light-background-4_n1lbvdmve__F0000.png">
+        <center> 
+            <h2> My Personal Journal - Marko Gutierro </h2>
+            <!-- Navigation Bar Code --> 
+            <a href = "index.html"> Home</a> | <a href = "aboutMe.html">About Me</a> | <a href = "turtleDesign.html"> Turtle Design</a> | 
+            <a href = "digitalScene.html"> Digital Scene</a> | <a href = "trivialPursuitApp.html"> Trivial Pursuit App</a> | 
+            <a href = "clickerApp.html"> Clicker App</a> | <a href = "midtermProject.html"> Midterm Project - War</a> |
+            <b> Color Sleuth App </b>
+            <!-- End of Navigation Bar Code -->
+            <h1> Color Sleuth App </h1>
+            <h3> <b>Description:</b> The purpose of this project was to learn problem solving skills. I was required to either fix
+            or add code based on the given situation. <br> The result is a game where the player must choose the block that is a slightly different
+            color from the others. </h3>
+            <video  width="500" height="300" controls>
+                <source src="https://cdn.discordapp.com/attachments/207979751602782210/544620108304089091/Color_Sleuth.mp4" type ="video/mp4">
+            </video>
+            <h4> K - What I knew | L - What I learned | W - What I want to Learn </h4>
+            <table border = "1"> 
+                <tr>
+                    <td> K - I knew that debugging was important. </td>
+                </tr>
+                <tr>
+                    <td> L - I learned multiple methods of efficiently debugging my programs. </td>
+                </tr>
+                <tr>
+                    <td> W - I want to learn what to do if I can never find out what is wrong with my program. </td>
+                </tr>
+            </table> <br>
+            <a href = "https://drive.google.com/open?id=1SW4MSOJ5zbWxA02Y4vUZ4YG2V3UH4rsW">Color Sleuth App PDF</a> <br>
+            <a href = "https://studio.code.org/projects/applab/rcwVD8e2mSc98Lqja07lYZEwb3pSrorkOwxb_M5Szwo">Color Sleuth App Original Location</a>
+        </center>
+    </body>
+</html>
