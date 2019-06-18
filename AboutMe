@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            About Me
+        </title>
+        <style>
+            #title{
+                color:white;
+                font-size:50px;
+            }
+            
+            h2{
+                color:teal;
+                font-size:40px;
+            }
+            p{
+                color:white;
+                font-size:20px;
+            }
+            
+            td{
+                color:white;
+                background-color:white;
+                color:black;
+                font-family:Verdana;
+            }
+            
+            .cred{
+                color:orange;
+            }
+            
+            .tsize{
+                font-size:25px;
+            }
+            #list{
+                color:white;
+                font-size:20px;
+                text-align:center;
+                list-style-position: inside;
+            }
+        </style>
+    </head>
+    <body background = "https://i2.wp.com/matthalvorsonphotography.com/wp-content/uploads/2016/02/dark-website-backgrounds-9.jpg">
+        <center>
+            <h2> <font color = "white" size = "6">My Personal Journal - Marko Gutierro</font> </h2>
+            <!-- Navigation Bar Code --> 
+            <font color = "orange"> </font>
+            <a href = "index.html"> <font color = "orange">Home</font></a> | <b><font color = "orange">About Me</b></font>  | <a href = "turtleDesign.html"><font color = "orange">Turtle Design</font></a> | 
+            <a href = "digitalScene.html"><font color = "orange">Digital Scene</font></a> | <a href = "trivialPursuitApp.html"><font color = "orange">Trivial Pursuit App</font></a> | 
+            <a href = "clickerApp.html"><font color = "orange">Clicker App</font></a> | <a href = "midtermProject.html"><font color = "orange">Midterm Project - War</font></a> |
+            <a href = "colorSleuthApp.html"><font color = "orange">Color Sleuth App</font></a> 
+            <!-- End of Navigation Bar Code -->
+            <h1 id = "title"> Day in the Life</h1>
+            <h2> Marko Gutierro </h2>
+            <img src = "http://www.mompreneurcircle.com/wp-content/uploads/2018/04/a-day-in-the-life.jpg"
+                width = 225 px; height = 150 px; alt = "Overwatch Logo">
+            <!-- <img src = "https://s3-media2.fl.yelpcdn.com/bphoto/Rj4YMOrqm-DajNaPiOv4tQ/348s.jpg"
+                width = 150px; height = 150px;> -->
+            <p> First, I wake up. I've never understood why people write this. Don't we all?
+            Well, to specify, I wake up at <i>6:08 A.M.</i> I then take a shower. However, contrary to normal standards,
+            I always end my showers cold. This is because it has multiple heath benefits. For example, one
+            reason ending showers cold is beneficial is because it can cure acne. The cold
+            water tightens pores which prevents them from clogging. Anyway, afterwards, I eat breakfast. 
+            Normally this will be a piece of bread with peanut butter because it is quick and easy to make.
+            Last, after having eaten my food I brush my teeth. Once all of the above is completed, 
+            I then drive to school. I leave at <i>7:10 </i>and make it for classes at <i>7:35</i>
+            <hr>
+            </p>
+            <p class = "tsize"> Classes: </p>
+            <table bordercolor = "white">
+                <tr>
+                    <th class = "cred"> A </th>
+                    <th class = "cred"> B </th>
+                </tr>
+                <tr>
+                    <td> AP Computer Science &nbsp; </td>
+                    <td> US History II H &nbsp; </td>
+                </tr>
+                <tr>
+                    <td> Physics H</td>
+                    <td> Study Hall</td>
+                </tr>
+                <tr>
+                    <td> ECE English </td>
+                    <td> Digital Media </td>
+                </tr>
+                <tr>
+                    <td> Spanish H </td>
+                    <td> Algebra II H</td>
+                </tr>
+            </table>
+            <p> Instead of writing about each class I go to, I will instead 
+                write which class is my favorite on A and B day. This would have
+                to be Computer Science on A day and Digital Media on B day.
+                Although different classes, I love these classes for the 
+                same reason. They both offer a creative outlet. I am not the best
+                artist but these two classes allow me to create without 
+                utensils. In AP CS I would love to learn how to become proficient at
+                building websites. It's incredible to look at websites once they've 
+                been finished and appreciate the effort behind them. 
+                In Digital Media I would love to learn
+                how to become a better videographer. It's fulfilling whenever
+                I am able to capture a stirring image.
+                My school day ends at <i>2:05</i> and I arrive home 
+                at about <i>2:15.</i>
+            </p>
+            <hr>
+            <p> Once I arrive home it is homework time. Honestly, it is more
+                of a compulsive issue than my own freely willed desire. For some reason, 
+                I cannot feel at ease if I do not finish my homework as soon as possible.
+                Considering a large potion of my friends are procastinators, I see it as 
+                a blessing and a curse. After homework, I will watch 
+                    <a href = https://www.youtube.com/> youtube</a> or play 
+                video games to wind down after the day. 
+            </p>
+            <img src ="https://res.cloudinary.com/teepublic/image/private/s--Ug0iCq1F--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1488911584/production/designs/1298385_1.jpg"
+                height = "100px" width = "100px">
+            <p> Currently, my favorite game to play is 
+                <b><a href ="https://playoverwatch.com">Overwatch</a></b>.
+                I enjoy the 
+            </p>
+            <ol id = "list">
+                <li> Fast paced team environment </li>
+                <li> Range of unique characters &nbsp </li>
+                <li> Casual and competitive play </li>
+            </ol>
+            <hr>
+            <p>I end up going to bed between <i>9:30 P.M.</i> and <i>10:30 P.M.
+                </i> I believe sleep is one of the most important parts of 
+                the day for your body. Modern science still does not know 
+                how exactly it does it, but sleep always manages to refuel your body 
+                for the next day. 
+            </p>
+            <hr>
+            <p> Extra: My 5 Main Hobbies </p>
+            <ul id = "list">
+                <li> Hiking </li>
+                <li> Basketball </li>
+                <li> Video Games </li>
+                <li> Board Games </li>
+                <li> Playing Guitar </li>
+
+            </ul>
+        </center>
+    </body>
+</html>
+
