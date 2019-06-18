@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Trivial Pursuit App </title>   
+        <style>
+            h3{
+                font-weight: normal;
+            }
+            table{
+                font-size: 20px;
+            }
+        </style>
+    </head>
+    <body background = "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/04wl7Vx/4k-golden-light-background-4_n1lbvdmve__F0000.png">
+        <center> 
+            <h2> My Personal Journal - Marko Gutierro </h2>
+            <!-- Navigation Bar Code --> 
+            <a href = "index.html"> Home</a> | <a href = "aboutMe.html">About Me</a> | <a href = "turtleDesign.html"> Turtle Design</a> | 
+            <a href = "digitalScene.html"> Digital Scene</a> | <b> Trivial Pursuit App </b> | 
+            <a href = "clickerApp.html"> Clicker App</a> | <a href = "midtermProject.html"> Midterm Project - War</a> |
+            <a href = "colorSleuthApp.html"> Color Sleuth App</a> 
+            <!-- End of Navigation Bar Code -->
+            <h1> Trivial Pursuit App </h1>
+            <h3> <b>Description:</b> The purpose of this project was to create a multi-screen app. I decided to create a trivia app 
+            on Youtube's most subscribed content creator, Felix Kjellberg. He is also known by his channel name which is Pewdiepie. </h3>
+            <video  width="500" height="300" controls>
+                <source src="https://cdn.discordapp.com/attachments/207979751602782210/544610496997752832/Trivial_Pursuit.mp4" type ="video/mp4">
+            </video>
+            <h4> K - What I knew | L - What I learned | W - What I want to Learn </h4>
+            <table border = "1"> 
+                <tr>
+                    <td> K - I knew how to make programs that do not go through any change (The outcome is always the same). </td>
+                </tr>
+                <tr>
+                    <td> L - I learned how to design user interfaces and how to write event-driven programs. </td>
+                </tr>
+                <tr>
+                    <td> W - I want to learn how to put my app on the app store for other people to play. </td>
+                </tr>
+            </table> <br>
+            <a href = "https://drive.google.com/open?id=1GUnbxiEs80t8VuFeyrnHrQxu675qH7AO">Trivial Pursuit PDF</a> <br>
+            <a href = "https://studio.code.org/projects/applab/3bB1oAzJIUDpqflVEPWN2aeRITImZEdaSZHsFjBjLx8">Trivial Pursuit Original Location</a>
+        </center>
+    </body>
+</html>
