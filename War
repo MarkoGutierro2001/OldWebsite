@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Midterm Project - War </title>  
+        <style> 
+            h3{
+                font-weight: normal;
+            }
+            table{
+                font-size: 20px;
+            }
+        </style>
+    </head>
+    <body background = "https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/04wl7Vx/4k-golden-light-background-4_n1lbvdmve__F0000.png">
+        <center> 
+            <h2> My Personal Journal - Marko Gutierro </h2>
+            <!-- Navigation Bar Code --> 
+            <a href = "index.html"> Home</a> | <a href = "aboutMe.html">About Me</a> | <a href = "turtleDesign.html"> Turtle Design</a> | 
+            <a href = "digitalScene.html"> Digital Scene</a> | <a href = "trivialPursuitApp.html"> Trivial Pursuit App</a> | 
+            <a href = "clickerApp.html"> Clicker App</a> | <b> Midterm Project - War </b> |
+            <a href = "colorSleuthApp.html"> Color Sleuth App</a> 
+            <!-- End of Navigation Bar Code -->
+            <h1> Midterm Project - War </h1>
+            <h3> <b>Description:</b> With this project I was able to create anything I desired. The only reqirement was
+            that I had to utilize the skills I had learned throughout the year up to the current point. 
+            I chose to recreate the classic card game of War. </h3>
+            <video  width="500" height="300" controls>
+                <source src="https://cdn.discordapp.com/attachments/207979751602782210/544617193594290186/War.mp4" type ="video/mp4">
+            </video>
+            <h4> K - What I knew | L - What I learned | W - What I want to Learn </h4>
+            <table border = "1"> 
+                <tr>
+                    <td> K - I knew how to design user interfaces, write event-driven programs, and update variables. </td>
+                </tr>
+                <tr>
+                    <td> L - I learned how to make effective comments. I needed them in order to keep everything organized. </td>
+                </tr>
+                <tr>
+                    <td> W - I want to learn how to make a game where you can verse someone who is not in the same room. </td>
+                </tr>
+            </table> <br>
+            <a href = "https://drive.google.com/open?id=1WpfT83Cidgv3k6VyuhuufW4Nr4fGQSx7">Midterm Project - War PDF</a> <br>
+            <a href = "https://studio.code.org/projects/applab/c_jbTnapf3r714mig5SSPFYy4KPdnhdiWfgOzzbhXYU">Midterm Project - War Original Location</a>
+        </center>
+    </body>
+</html>
